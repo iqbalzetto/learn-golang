@@ -57,4 +57,4 @@ func main() {
 	measure(c)
 }
 
-//o learn more about Go’s interfaces, check out this great blog post.
+//to learn more about Go’s interfaces, check out this great blog post.
